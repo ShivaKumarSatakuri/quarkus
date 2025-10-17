@@ -18,6 +18,7 @@ dependencies {
     //implementation 'io.quarkus:quarkus-arc'
     testImplementation 'io.quarkus:quarkus-junit5'
     testImplementation 'io.rest-assured:rest-assured:5.3.0'
+    //Need to work on azure active directory
 }
 
 group = 'shiva-kumar-satakuri'
