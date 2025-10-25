@@ -24,6 +24,8 @@ dependencies {
     //Working on system design learning
     //Starting system design chapter two today
     //Completed system design chapter 3
+    //Decided to create a react front end app and make it communicate with spring boot (or) quarkus backend.
+    //Reading chapter 4 in system design
 }
 
 group = 'shiva-kumar-satakuri'
