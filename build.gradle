@@ -16,6 +16,8 @@ dependencies {
 //    implementation 'io.quarkus:quarkus-jdbc-mysql'
     implementation 'io.quarkus:quarkus-resteasy-jackson'
     //implementation 'io.quarkus:quarkus-arc'
+    // https://mvnrepository.com/artifact/io.quarkus.http/quarkus-http-core
+    implementation 'io.quarkus.http:quarkus-http-core:5.2.4'
     testImplementation 'io.quarkus:quarkus-junit5'
     testImplementation 'io.rest-assured:rest-assured:5.3.0'
     //Need to work on azure active directory
