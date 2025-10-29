@@ -28,6 +28,7 @@ dependencies {
     //Completed system design chapter 3
     //Decided to create a react front end app and make it communicate with spring boot (or) quarkus backend.
     //Reading chapter 4 in system design
+    //no progress today
 }
 
 group = 'shiva-kumar-satakuri'
